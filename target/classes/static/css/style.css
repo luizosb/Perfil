@@ -1,0 +1,85 @@
+.panel-inverse{
+	margin-left:200px;
+	margin-right:200px;
+}
+body{
+	background-color: #525358;
+}
+
+.thumbnail{
+	background-color:#939fd2;
+}
+
+
+.navbar-brand{
+	padding-top:  0px;
+	padding-left: 0px;
+	background-color: black;
+}
+.navbar header{
+	padding-top: 10px;
+	background-color: #0d408f;
+}
+
+.panel-body{
+	margin-left: 25%;
+	margin-right: 25%;
+
+}
+
+.panel{
+	margin-top: 0%;
+	font-family: arial;
+	font-size: 150%;
+	background-color:#939fd2;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
+
+.panel-title{
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 150%;
+}
+
+
+.nav{ 
+	background-color: #0d408f;
+		
+}
+	
+	
+.nav a{
+	color: white;
+	
+}
+
+.btn-projetos{
+	margin-left: 700px;
+	margin-bottom: 50px;
+}
+
+.btn-skills{
+	margin-left: 65px;
+}
+
+.row{
+	margin-left: 450px;
+}
+
+.eu{
+	position: relative;
+	left: 35%;
+	border-radius: 1000px	
+}
+
+.nav a:hover{
+	color: black;
+}
+
+.footer{
+	margin-left: 200px;
+	color: white;
+	margin-bottom: 20px;
+}
