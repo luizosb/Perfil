@@ -3,11 +3,11 @@
 	margin-right:200px;
 }
 body{
-	background-color: #525358;
+	background-color: #294A67;
 }
 
 .thumbnail{
-	background-color:#939fd2;
+	background-color:#E0DCDA;
 }
 
 
@@ -27,33 +27,93 @@ body{
 
 }
 
+
+
 .panel{
 	margin-top: 0%;
 	font-family: arial;
 	font-size: 150%;
-	background-color:#939fd2;
+	background-color:#E0DCDA;
 	margin-left: 200px;
 	margin-right: 200px;
 	
 }
+
+.panel-desenhar{
+	margin-top: 0%;
+	font-family: arial;
+	font-size: 150%;
+	background-color:#E0DCDA;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
+
+.panel-viajar{
+	margin-top: 0%;
+	font-family: arial;
+	font-size: 150%;
+	background-color:#E0DCDA;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
+
 
 .panel-title{
 	margin-top: 20px;
 	font-family: arial;
 	font-size: 150%;
 }
-
-
 .nav{ 
 	background-color: #0d408f;
 		
 }
-	
+.card{
+	background-color:#E0DCDA;
+}
+
+.img-excel{
+	margin-left: 10px
+}
+
+.zoom {
+    overflow: hidden;
+}
+
+    .zoom img {
+        max-width: 100%;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+    .zoom:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    .zoom:hover {
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        box-shadow: 5px 10px 8px 10px #888888;
+    }
+
+.card-html{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.card-java{
+	margin-left: 40px;
+}
 	
 .nav a{
 	color: white;
 	
 }
+
 
 .btn-projetos{
 	margin-left: 700px;
@@ -65,13 +125,34 @@ body{
 }
 
 .row{
-	margin-left: 450px;
+	margin-left: 300px;
+	margin-top: 200px;
 }
 
 .eu{
 	position: relative;
-	left: 35%;
-	border-radius: 1000px	
+	left: 35%;		
+}
+
+.luizformado{
+	border-radius: 1000px;
+	position: relative;
+	left: 25%;
+}
+.luizviagem{
+	border-radius: 1000px;
+	position: relative;
+	left: 28%;
+}
+.hobbies{
+	border-radius: 1000px;
+	position: relative;
+	left: 10%;
+}
+.gyrados{
+	border-radius: 1000px;
+	position: relative;
+	left: 38%;
 }
 
 .nav a:hover{
